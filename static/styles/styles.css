@@ -1,0 +1,19 @@
+h2 {
+  color: blue;
+  font-variant: small-caps;
+}
+
+div {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: inset;
+  border-width: 3px;
+  border-top: 3px solid blue;
+}
